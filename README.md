@@ -1,4 +1,4 @@
-# FTK-Imager
+# FTK Imager
 
 <h2>Description</h2>
 In this Digital Forensics task, I explore FTK Imager where I examine a sample hard drive of a deleted photo, create a disk image, and captured my VM's memory. 
